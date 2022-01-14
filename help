@@ -1,0 +1,23 @@
+[33mcommit 770a24b2a8e4ea56d15c8bbe79553ecc8a95f949[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: trxboomer <harry.zhou1020@gmail.com>
+Date:   Fri Jan 14 00:08:16 2022 -0800
+
+    Added git cheatsheet
+
+[33mcommit a429cf123207ee70b44d0d11ac049e5554e8a5d1[m
+Author: trxboomer <harry.zhou1020@gmail.com>
+Date:   Fri Jan 14 00:00:45 2022 -0800
+
+    Add hello-world.txt
+
+[33mcommit f9a98e5168bb66a1c059aa715cdb8f6f0c36c9f4[m
+Author: trxboomer <83689320+trxboomer@users.noreply.github.com>
+Date:   Thu Jan 13 23:54:15 2022 -0800
+
+    Update README.md
+
+[33mcommit d3cf8498eb19c8b559942d097c5819db2c8a05c5[m
+Author: trxboomer <83689320+trxboomer@users.noreply.github.com>
+Date:   Thu Jan 13 23:52:54 2022 -0800
+
+    Initial commit
